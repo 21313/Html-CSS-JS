@@ -15,4 +15,4 @@ In this recruitment System there are three types of users:
 
 ### Company User:  company@gmail.com  Password: 123456
 
-#### Description: A Web based Application where students of institutes can create their profile and view list of available Jobs, Companies can also view students profile those who applied for the job and respond such candidate those fulfills jobs requirment and there is a admin panel where admin have an access right of view or delete a particular student's or company's profile.
+#### Description: A Web based Application where students of institutes can create their profile and view list of available jobs then apply for the desired position, Companies can also view students profile those who applied for the job and respond such candidate those fulfills jobs requirment. The admin has overall rights over the system and can moderate and delete any details not pertaining to college placement rules. The system handles student as well as company data and efficiently displays all this data to respective sides.
